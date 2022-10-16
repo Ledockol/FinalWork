@@ -9,7 +9,4 @@ for (int i = 0; i < arrayFirst.Length; i++)
             count++;
             Console.Write(arrayFirst[i] + " ");
         }
-} 
-        
-    
-
+}
